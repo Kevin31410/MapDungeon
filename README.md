@@ -66,6 +66,7 @@ Si vous souhaitez générer votre propre fichier `.exe`, lancez simplement le sc
 Cela créera un exécutable autonome dans le dossier dist.
 
 ## 🎮 Contrôles
+
 | Action | Contrôle |
 | Poser une tuile | Clic Gauche |
 | Effacer une tuile | Outil "GOMME" + Clic Gauche |
