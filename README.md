@@ -18,7 +18,7 @@
 
 | Système de Murs | Interface Immersive |
 | :---: | :---: |
-| <img src="LIEN_GIF_MURS.gif" width="400"> | <img src="LIEN_IMAGE_UI.png" width="400"> |
+| <img width="1282" height="832" alt="MapDungeon1" src="https://github.com/user-attachments/assets/869c42a0-c3ee-4126-994e-fcccbad3c6d4" /> | <img width="1282" height="832" alt="immersion" src="https://github.com/user-attachments/assets/ba5fe720-516f-47b5-8dd8-ca3d0692cab0" /> |
 
 ---
 
