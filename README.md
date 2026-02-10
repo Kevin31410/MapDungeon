@@ -13,7 +13,7 @@
 ## 📸 Captures d'écran
 
 <p align="center">
-  <img src="LIEN_DE_VOTRE_IMAGE_ICI.png" alt="Interface Principale" width="800">
+  <img alt="Interface Principale" width="800"> src="https://github.com/user-attachments/assets/e8b3a648-da38-4843-b2bb-370772a1d9b5" />
 </p>
 
 | Système de Murs | Interface Immersive |
@@ -40,7 +40,7 @@
 1.  Allez dans l'onglet [Releases](https://github.com/VOTRE_PSEUDO/VOTRE_REPO/releases).
 2.  Téléchargez le dernier fichier `.zip`.
 3.  Extrayez-le n'importe où sur votre ordinateur.
-4.  Lancez `MapEditor_Fantasy_Bundled.exe`.
+4.  Lancez `MapDungeon.exe`.
 5.  *C'est tout ! Pas besoin d'installer Python.*
 
 ### Option 2 : Pour les Développeurs (Python)
@@ -55,7 +55,7 @@
     ```
 3.  Lancez l'éditeur :
     ```bash
-    python main.py
+    python MapDungeon.py
     ```
 
 ### 🛠️ Compilation (Créer l'exécutable)
