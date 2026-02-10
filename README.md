@@ -13,7 +13,7 @@
 ## 📸 Captures d'écran
 
 <p align="center">
-  <img alt="Interface Principale" width="800"> src="https://github.com/user-attachments/assets/e8b3a648-da38-4843-b2bb-370772a1d9b5" />
+<img width="1282" height="832" alt="Interface Principale" src="https://github.com/user-attachments/assets/a83d08da-255c-4f78-a82d-5aa5ca6e57b8" />
 </p>
 
 | Système de Murs | Interface Immersive |
