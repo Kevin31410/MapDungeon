@@ -46,7 +46,7 @@
 ### Option 2 : Pour les Développeurs (Python)
 1.  Clonez ce dépôt :
     ```bash
-    git clone [https://github.com/VOTRE_PSEUDO/VOTRE_REPO.git](https://github.com/VOTRE_PSEUDO/VOTRE_REPO.git)
+    git clone [https://github.com/Kevin31410/MapDungeon.git](https://github.com/Kevin31410/MapDungeon.git)
     cd VOTRE_REPO
     ```
 2.  Installez les dépendances :
@@ -65,6 +65,8 @@ Si vous souhaitez générer votre propre fichier `.exe`, lancez simplement le sc
     ```
 Cela créera un exécutable autonome dans le dossier dist.
 
+---
+
 ## 🎮 Contrôles
 
 | Action | Contrôle |
@@ -77,7 +79,7 @@ Cela créera un exécutable autonome dans le dossier dist.
 | **Mode Immersion** | Bouton "IMMERSION" (Quitter avec la croix 'X') |
 | **Annuler / Rétablir** | Boutons en haut du menu |
 
-______________________________________________________________________________
+---
 
 ## 🤝 Contribuer
 Les contributions sont les bienvenues ! Si vous souhaitez ajouter des packs de textures, corriger des bugs ou ajouter des fonctionnalités (comme le brouillard de guerre) :
@@ -87,14 +89,14 @@ Les contributions sont les bienvenues ! Si vous souhaitez ajouter des packs de t
 4.  Pushez vers la branche (git push origin feature/MaSuperFeature).
 5.  Ouvrez une Pull Request.
 
-______________________________________________________________________________
+---
 
 ## 📜 Licence
 Distribué sous la licence MIT. Voir le fichier LICENSE pour plus d'informations.
 
-______________________________________________________________________________
+---
 
 <p align="center">
-    Fait avec ❤️ par [VOTRE NOM] pour la communauté JDR.
+Fait avec ❤️ par Kevin31410 pour la communauté JDR.
 </p>
 
