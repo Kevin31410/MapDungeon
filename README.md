@@ -66,14 +66,14 @@ Si vous souhaitez générer votre propre fichier `.exe`, lancez simplement le sc
 Cela créera un exécutable autonome dans le dossier dist.
 
 ## 🎮 Contrôles
-| Action             | Contrôle                                       |
-| Poser une tuile    | Clic Gauche                                    |
-| Effacer une tuile  | Outil "GOMME" + Clic Gauche                    |
-| Tracer un mur      | Outil "MUR" + Glisser-Déposer                  |
-| Défiler les assets | Molette Souris (sur le panneau de droite)      |
-| Pivoter l'asset    | Bouton "PIVOTER" ou Interface                  |
-| Mode Immersion     | Bouton "IMMERSION" (Quitter avec la croix 'X') |
-| Annuler / Rétablir | Boutons en haut du menu                        |
+| Action | Contrôle |
+| Poser une tuile | Clic Gauche |
+| Effacer une tuile | Outil "GOMME" + Clic Gauche |
+| Tracer un mur | Outil "MUR" + Glisser-Déposer |
+| Défiler les assets | Molette Souris (sur le panneau de droite) |
+| Pivoter l'asset | Bouton "PIVOTER" ou Interface |
+| Mode Immersion | Bouton "IMMERSION" (Quitter avec la croix 'X') |
+| Annuler / Rétablir | Boutons en haut du menu |
 
 ______________________________________________________________________________
 
