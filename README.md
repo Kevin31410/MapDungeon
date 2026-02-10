@@ -66,7 +66,6 @@ Si vous souhaitez générer votre propre fichier `.exe`, lancez simplement le sc
 Cela créera un exécutable autonome dans le dossier dist.
 
 ## 🎮 Contrôles
-_______________________________________________________________________
 | Action             | Contrôle                                       |
 | Poser une tuile    | Clic Gauche                                    |
 | Effacer une tuile  | Outil "GOMME" + Clic Gauche                    |
@@ -75,7 +74,6 @@ _______________________________________________________________________
 | Pivoter l'asset    | Bouton "PIVOTER" ou Interface                  |
 | Mode Immersion     | Bouton "IMMERSION" (Quitter avec la croix 'X') |
 | Annuler / Rétablir | Boutons en haut du menu                        |
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 ______________________________________________________________________________
 
