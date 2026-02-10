@@ -57,8 +57,44 @@
     ```bash
     python MapDungeon.py
     ```
-
+    
 ### 🛠️ Compilation (Créer l'exécutable)
 Si vous souhaitez générer votre propre fichier `.exe`, lancez simplement le script de build inclus :
-```bash
-python build_bundled.py
+    ```bash
+    python build_bundled.py
+    ```
+Cela créera un exécutable autonome dans le dossier dist.
+
+## 🎮 Contrôles
+_______________________________________________________________________
+| Action             | Contrôle                                       |
+| Poser une tuile    | Clic Gauche                                    |
+| Effacer une tuile  | Outil "GOMME" + Clic Gauche                    |
+| Tracer un mur      | Outil "MUR" + Glisser-Déposer                  |
+| Défiler les assets | Molette Souris (sur le panneau de droite)      |
+| Pivoter l'asset    | Bouton "PIVOTER" ou Interface                  |
+| Mode Immersion     | Bouton "IMMERSION" (Quitter avec la croix 'X') |
+| Annuler / Rétablir | Boutons en haut du menu                        |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+______________________________________________________________________________
+
+## 🤝 Contribuer
+Les contributions sont les bienvenues ! Si vous souhaitez ajouter des packs de textures, corriger des bugs ou ajouter des fonctionnalités (comme le brouillard de guerre) :
+1.  Forkez le projet.
+2.  Créez votre branche (git checkout -b feature/MaSuperFeature).
+3.  Commitez vos changements (git commit -m 'Ajout de MaSuperFeature').
+4.  Pushez vers la branche (git push origin feature/MaSuperFeature).
+5.  Ouvrez une Pull Request.
+
+______________________________________________________________________________
+
+## 📜 Licence
+Distribué sous la licence MIT. Voir le fichier LICENSE pour plus d'informations.
+
+______________________________________________________________________________
+
+<p align="center">
+    Fait avec ❤️ par [VOTRE NOM] pour la communauté JDR.
+</p>
+
